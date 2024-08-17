@@ -9,8 +9,8 @@ Evaluation: Assess model accuracy, loss, and gradient norms.
 Visualization: Plot accuracy, loss, and gradient norms to compare activation functions.
 Libraries Used:
 
-TensorFlow
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
+- TensorFlow
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
